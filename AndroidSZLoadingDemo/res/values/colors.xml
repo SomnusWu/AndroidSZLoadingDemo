@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#ff000000</color>
+    <color name="color_hei_8">#00000000</color>
+    <color name="sc_transparent_background">@color/color_hei_8</color>
+
+</resources>

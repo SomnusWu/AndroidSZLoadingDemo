@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidSZLoadingDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+     <string name="first_start_dialog_text">请稍候...</string>
+     <string name="dialog_btn">点击弹框</string>
+</resources>
